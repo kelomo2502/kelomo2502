@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/93083560?s=96&v=4">
-
 <h2> Hey there! I'm Gbenga.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
