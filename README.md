@@ -6,8 +6,8 @@
 - 🎓 &nbsp; Applying MERN stack and cloud computing technologies to archictect web solutions
 - 💼 &nbsp; Working as software engineer at Lofai.ng.
 - 🌱 &nbsp; Learning more about Web and App Development and deployment using technologies like React,Redux,Nextjs, NodeJs, MongoDB, AWS cloud, Azure...
-- ✍️ &nbsp; Play the guitar and learn world history as hobbies.
-- ✍️ &nbsp;Do Real Estate and Investment Analysis as side hustles.
+- 🎸&nbspp; Play the guitar and learn world history as hobbies.
+- 🏠&nbsp &nbsp;Do Real Estate and Investment Analysis as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
