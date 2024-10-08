@@ -17,7 +17,7 @@
   ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white)
   ![RedHat](https://img.shields.io/badge/-Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
-- ![Cloud&nbsp;Image](https://img.shields.io/badge/Cloud%20Image-00BFFF?style=flat&logo=cloud)
+- ☁️&nbsp; Cloud
   ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-232F3E?style=flat&logo=amazonaws)
   ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azuredevops)
   ![Google Cloud Build](https://img.shields.io/badge/Google%20Cloud%20Build-4285F4?style=flat&logo=googlecloud)
