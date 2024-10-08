@@ -18,6 +18,18 @@
   ![RedHat](https://img.shields.io/badge/-Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
 - ![Cloud&nbsp;Image](https://img.shields.io/badge/Cloud%20Image-00BFFF?style=flat&logo=cloud)
+  ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-232F3E?style=flat&logo=amazonaws)
+  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azuredevops)
+  ![Google Cloud Build](https://img.shields.io/badge/Google%20Cloud%20Build-4285F4?style=flat&logo=googlecloud)
+  ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?style=flat&logo=gitlab)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+  ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat&logo=travis)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+
+
 
 
 - 🌐 &nbsp; Web Technologies
