@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and Innovations in solving contemporary problems.
-- 🎓 &nbsp; APllying MERN stack and cloud computing technologies to archictect web solutions
+- 🎓 &nbsp; Applying MERN stack and cloud computing technologies to archictect web solutions
 - 💼 &nbsp; Working as a Part-Time Internship at Emzonet Technologies.
 - 🌱 &nbsp; Learning more about Web and App Development using technologies like React,Redux,Ruby on Rails, NodeJs, MongoDB...
 - ✍️ &nbsp; Play the guitar and learn world history as hobbies.
