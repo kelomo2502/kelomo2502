@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and Innovations in solving contemporary problems.
 - 🎓 &nbsp; Applying MERN stack and cloud computing technologies to archictect web solutions
-- 💼 &nbsp; Working as a Part-Time Internship at Emzonet Technologies.
-- 🌱 &nbsp; Learning more about Web and App Development using technologies like React,Redux,Ruby on Rails, NodeJs, MongoDB...
+- 💼 &nbsp; Working as software engineer at Lofai.ng.
+- 🌱 &nbsp; Learning more about Web and App Development and deployment using technologies like React,Redux,Nextjs, NodeJs, MongoDB, AWS cloud, Azure...
 - ✍️ &nbsp; Play the guitar and learn world history as hobbies.
 - ✍️ &nbsp;Do Real Estate and Investment Analysis as side hustles.
 
