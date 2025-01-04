@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and Innovations in solving contemporary problems.
-- 🎓 &nbsp; Applying MERN stack and cloud computing technologies to archictect web solutions
-- 💼 &nbsp; Working as software engineer at Lofai.ng.
-- 🌱 &nbsp; Learning more about Web and App Development and deployment using technologies like React,Redux,Nextjs, NodeJs, MongoDB, AWS cloud, Azure...
-- 🎸&nbspp; Play the guitar and learn world history as hobbies.
-- 🏠&nbsp &nbsp;Do Real Estate and Investment Analysis as side hustles.
+- 🤔 &nbsp; Actively exploring AWS Well-Architected Framework and leveraging cloud innovations to deliver scalable and efficient business solutions.
+- 🎓 &nbsp; Designing and developing robust web applications using the MERN stack and cloud computing technologies to optimize performance and scalability.
+- 💼 &nbsp; Expanding my expertise kubernetes and CI/CD technologies, focusing on creating resillient and efficient digital solutions.
+- 🌱 &nbsp; Learning more about infrastructure and systems logs monitoring with tools like Naggios, Prometheus (with Grafana for visualization) and ELK Stack
+- 🎸 &nbspp; Play the guitar and learn world history as hobbies.
+- 🏠 &nbsp;Do Real Estate and Investment Analysis as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
