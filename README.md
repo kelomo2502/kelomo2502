@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Gbenga.</h2>
+# Hey there! I'm Gbenga.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Actively exploring AWS Well-Architected Framework and leveraging cloud innovations to deliver scalable and efficient business solutions.
 - 🎓 &nbsp; Designing and developing robust web applications using the MERN stack and cloud computing technologies to optimize performance and scalability.
@@ -9,7 +9,7 @@
 - 🎸 &nbspp; Play the guitar and learn world history as hobbies.
 - 🏠 &nbsp;Do Real Estate and Investment Analysis as side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Linux Servers
   ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
@@ -27,7 +27,6 @@
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
 - 🌐 &nbsp; Web Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -38,7 +37,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NEXTJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -54,6 +52,18 @@
   ![Git&nbsp;Bash](https://img.shields.io/badge/Git%20Bash-FC3E3E?style=flat&logo=gitbash&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-<br/>
+### Languages and Tools
 
-⭐️ From [GKO](https://github.com/kelomo2502)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelomo2502&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Stats
+
+![kelomo2502's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelomo2502&show_icons=true&theme=radical)
+
+### Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/oyewunmi-gbenga/)
+- [Twitter](https://x.com/kelomoJs)
+- [Personal Website/Blog](https://gb-portfolio-sigma.vercel.app/)
+
+Thanks for stopping by! 😄
