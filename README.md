@@ -151,7 +151,7 @@ Thanks for stopping by! 😄 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/oyewunmi-gbenga/)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/kelomoJs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://gb-portfolio-sigma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio.gbenga.online/)
 
 ---
 
