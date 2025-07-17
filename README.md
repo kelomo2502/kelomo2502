@@ -137,15 +137,31 @@ React (Vite), Firebase Auth, Docker, Kubernetes, GitHub Actions, Prometheus, Gra
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Gbenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelomo2502&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelomo2502&layout=compact&theme=tokyonight&hide=html)
 
----
+--- -->
+
+## 📊 GitHub Stats
+
+<!-- Main GitHub Stats -->
+![Kelomo2502's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelomo2502&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelomo2502&layout=compact&theme=tokyonight&hide=html)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelomo2502&theme=tokyonight&hide_border=false)
+
+<!-- Contributions Summary from 2021 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelomo2502&theme=tokyonight" alt="GitHub Profile Details" />
+
+<!-- Metrics (optional but advanced) -->
+
+<img src="https://github-metrics.vercel.app/api?username=kelomo2502&show=commits,prs,issues&config.timezone=Africa%2FLagos" alt="Advanced GitHub Metrics" />
 
 ## 🌐 Connect With Me
 
