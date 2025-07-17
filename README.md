@@ -18,6 +18,7 @@
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 ![EKS](https://img.shields.io/badge/EKS-4169E1?style=flat&logo=amazon-eks)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazonaws)
@@ -35,6 +36,7 @@
 ![NGINX Ingress](https://img.shields.io/badge/NGINX_Ingress-009639?style=flat&logo=nginx)
 
 ### 📈 Monitoring, Logging & Tracing
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana)
 ![Loki](https://img.shields.io/badge/Loki-4A5367?style=flat&logo=grafana)
@@ -43,12 +45,14 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-4A00B0?style=flat&logo=opentelemetry)
 
 ### 💻 Operating Systems
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)
 ![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=flat&logo=redhat)
 ![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=flat&logo=alpinelinux)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos)
 
 ### 🌐 Web Stack
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss)
@@ -56,12 +60,14 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 
 ### 🛢️ Databases & Storage
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb)
 
 ### ⚙️ Tools & IDEs
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode)
@@ -74,10 +80,12 @@
 ## 📂 Featured Projects
 
 ### 🔬 PulseGrid – Real-Time Health Analytics Platform  
+
 **📌 What the project does**:  
 PulseGrid ingests and analyzes healthcare data from FHIR APIs and wearable devices in real-time, enabling clinicians to monitor patient vitals and trends.
 
 **👨‍💼 My Role**: *Project Lead*  
+
 - Led infrastructure design and cloud architecture using Terraform.
 - Built and containerized the FastAPI-based ingestion pipeline for FHIR and wearable data.
 - Set up full observability stack using Prometheus, Grafana, and Loki.
@@ -92,10 +100,12 @@ Terraform, GitHub Actions, Docker, FastAPI, AWS (S3, Lambda, IAM, DynamoDB), FHI
 ---
 
 ### ⚙️ AutoPilotOps – Intelligent CI/CD & Observability Framework  
+
 **📌 What the project does**:  
 AutoPilotOps automates the build, deployment, and monitoring of containerized apps using production-grade Kubernetes and GitOps tooling.
 
 **👨‍💼 My Role**: *Collaborator*  
+
 - Built a custom EKS cluster module in Terraform with OIDC and Managed Node Groups.
 - Set up ArgoCD for GitOps delivery and implemented Helm charts for third-party apps.
 - Deployed Prometheus/Grafana stack and exposed metrics from application endpoints.
@@ -109,10 +119,12 @@ AWS EKS, Terraform, GitHub Actions, ArgoCD, Prometheus, Grafana, Loki, Helm, Kus
 ---
 
 ### 🧩 Waza App – Scalable Blog Platform with Custom Metrics  
+
 **📌 What the project does**:  
 Waza is a blogging app built with React (Vite) and Firebase, deployed to Kubernetes with full observability enabled via custom Prometheus metrics.
 
 **👨‍💼 My Role**: *Project Lead*  
+
 - Architected infrastructure for multi-environment deployment on AWS EKS.
 - Exposed login/signup metrics from backend for monitoring and alerts.
 - Used Kustomize for layered deployments and GitHub Actions for automation.
@@ -140,4 +152,4 @@ React (Vite), Firebase Auth, Docker, Kubernetes, GitHub Actions, Prometheus, Gra
 
 ---
 
-_Thanks for visiting! Building modern cloud-native solutions, one cluster at a time._ ☁️🚀
+*Thanks for visiting! Building modern cloud-native solutions, one cluster at a time.* ☁️🚀
