@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 DevOps Engineer | SRE in Training | AWS Cloud Enthusiast  
+🚀 DevOps Engineer | SRE oriented | AWS Cloud Enthusiast  
 🔧 I architect and automate resilient, cloud-native infrastructures with modern DevOps tooling.  
 📦 I specialize in Kubernetes, observability, CI/CD, and scalable app delivery across cloud environments — with a focus on AWS.
 
