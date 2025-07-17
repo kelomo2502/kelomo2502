@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Gbenga Kelvin Oyewunmi
+<!-- # 👋 Hey there, I'm Gbenga Kelvin Oyewunmi
 
 ## 👨‍💻 About Me
 
@@ -155,4 +155,85 @@ React (Vite), Firebase Auth, Docker, Kubernetes, GitHub Actions, Prometheus, Gra
 
 ---
 
-*Thanks for visiting! Building modern cloud-native solutions, one cluster at a time.* ☁️🚀
+*Thanks for visiting! Building modern cloud-native solutions, one cluster at a time.* ☁️🚀 -->
+# 👋 Hi, I'm Gbenga Kelvin Oyewunmi
+
+🚀 DevOps & SRE Engineer | ⚙️ Fullstack Developer (MERN) | ☁️ Cloud Infrastructure Enthusiast  
+I'm passionate about building production-grade DevOps pipelines, automating infrastructure, and crafting resilient systems with Kubernetes, Terraform, and GitHub Actions.  
+With a solid foundation in fullstack development, I bring a unique blend of infrastructure mastery and software engineering to every project.
+
+---
+
+## 💼 Projects
+
+### 🔹 PulseGrid
+
+> A scalable healthcare analytics infrastructure designed to ingest, process, and monitor FHIR-based patient data and wearable sensor data.
+
+- **Role:** Project Lead — designed and implemented the entire DevOps infrastructure including CI/CD, observability, and IaC automation.
+- **Tech:** Terraform, AWS (S3, EKS, IAM, DynamoDB), GitHub Actions, Kubernetes, Prometheus, Grafana, FastAPI, Docker
+
+---
+
+### 🔹 Waza App
+
+> A production-ready React + Firebase app monitored using custom Prometheus metrics and Grafana dashboards, deployed on AWS EKS.
+
+- **Role:** Project Lead — led containerization, Kubernetes deployment, monitoring setup, and secure ingress configuration.
+- **Tech:** React, Firebase, Docker, Kustomize, EKS, Prometheus, Grafana, TLS/Ingress (NGINX), Ngrok, GitHub Actions
+
+---
+
+### 🔹 AutoPilotOps
+
+> An automated end-to-end infrastructure setup and CI/CD pipeline system for modern cloud-native apps.
+
+- **Role:** Project Lead — architected and implemented Terraform infrastructure, GitHub workflows, and environment segregation for local, staging, and production.
+- **Tech:** Terraform, GitHub Actions, Kubernetes, Helm, Cert-Manager, ArgoCD, S3, IAM, TLS, Monitoring/Alerting stack
+
+---
+
+## 🧰 Tech Stack
+
+### 🛠 DevOps, SRE & Infrastructure
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-ef7b4d?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-C9B20F?style=for-the-badge&logo=yaml&logoColor=white)
+
+### 🌐 Fullstack (MERN)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### ☁️ Cloud & Platform Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Kelomo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelomo2502&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelomo2502&layout=compact&theme=tokyonight&hide=html)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbenga-oyewunmi)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinoyewunmi@gmail.com)
+
+---
+
+_“Consistency + Curiosity = Mastery” — I’m constantly learning, building, and sharing. Let’s collaborate or connect!_
