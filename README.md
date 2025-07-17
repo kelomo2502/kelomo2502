@@ -139,8 +139,9 @@ React (Vite), Firebase Auth, Docker, Kubernetes, GitHub Actions, Prometheus, Gra
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelomo2502&layout=compact&theme=radical)  
-![Gbenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelomo2502&show_icons=true&theme=radical)
+![Gbenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelomo2502&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelomo2502&layout=compact&theme=tokyonight&hide=html)
 
 ---
 
