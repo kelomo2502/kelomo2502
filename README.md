@@ -95,7 +95,7 @@ Terraform, GitHub Actions, Docker, FastAPI, AWS (S3, Lambda, IAM, DynamoDB), FHI
 **📌 What the project does**:  
 AutoPilotOps automates the build, deployment, and monitoring of containerized apps using production-grade Kubernetes and GitOps tooling.
 
-**👨‍💼 My Role**: *Project Lead*  
+**👨‍💼 My Role**: *Collaborator*  
 - Built a custom EKS cluster module in Terraform with OIDC and Managed Node Groups.
 - Set up ArgoCD for GitOps delivery and implemented Helm charts for third-party apps.
 - Deployed Prometheus/Grafana stack and exposed metrics from application endpoints.
