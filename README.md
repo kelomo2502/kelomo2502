@@ -139,6 +139,8 @@ React (Vite), Firebase Auth, Docker, Kubernetes, GitHub Actions, Prometheus, Gra
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Gbenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelomo2502&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelomo2502&layout=compact&theme=tokyonight&hide=html)
@@ -149,7 +151,7 @@ React (Vite), Firebase Auth, Docker, Kubernetes, GitHub Actions, Prometheus, Gra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/oyewunmi-gbenga/)  
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/kelomoJs)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://gb-portfolio-sigma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio.gbenga.online)
 
 ---
 
