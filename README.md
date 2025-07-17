@@ -161,7 +161,7 @@ React (Vite), Firebase Auth, Docker, Kubernetes, GitHub Actions, Prometheus, Gra
 
 <!-- Metrics (optional but advanced) -->
 
-<img src="https://github-metrics.vercel.app/api?username=kelomo2502&show=commits,prs,issues&config.timezone=Africa%2FLagos" alt="Advanced GitHub Metrics" />
+<img src="https://github.com/kelomo2502/kelomo2502/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
 ## 🌐 Connect With Me
 
